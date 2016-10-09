@@ -2,3 +2,22 @@ body{
 	padding: 0;
 	margin: 0;
 }
+
+.navbar{
+	background: #3f51b5;
+	border: #3f51b5 1px solid;
+}
+.navbar-default .navbar-brand{
+	color: whitesmoke;
+}
+
+.panel{
+	box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.well{
+	padding: 27px 19px 19px 19px;
+	background: #3f51b5;
+	border: #3f51b5 1px solid;
+	box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}

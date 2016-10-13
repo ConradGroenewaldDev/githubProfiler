@@ -11,7 +11,7 @@ export class ProfileComponent {
 	
 	user:any;
 	repos:any[];
-username: string;
+	username: string;
 	
 	constructor(private _githubService: GithubService){
 		this.user = false;
